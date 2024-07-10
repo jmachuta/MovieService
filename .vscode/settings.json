@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/83e69d82-7e6a-4eea-9ebf-92001eb83602/resourceGroups/MovieWatchlistApp/providers/Microsoft.Web/sites/MovieWatchlistApp",
+  "appService.deploySubpath": "."
+}
